@@ -6,6 +6,13 @@ Treeboard is a custom widget for Duckboard, it gets user info from Treehouse via
 
 It's just a proof-of-concept that was hacked together using bash, you are welcome to use it for whatever you like.
 
+####Live Demo at [treeboard.mooo.com](http://treeboard.mooo.com/)
+
+####Screenshot of the leaderboard
+![](http://i.imgur.com/O65idrp.jpg)
+
+---
+
 ##Get Ready
 
 - [Sign up for Ducksboard](http://ducksboard.com/)
